@@ -110,7 +110,7 @@ class Card {
     player1.addCard(gatito);
     player1.addCard(doge);
     
-    let player2 = new Player('Tomu');
+    let player2 = new Player('Tumo');
     player2.addCard(phrog);
     player2.addCard(bunni);
     
